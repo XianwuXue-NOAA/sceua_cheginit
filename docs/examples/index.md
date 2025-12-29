@@ -12,6 +12,6 @@ This will create a new environment called `sceua` with all the required packages
 <div class="grid cards" markdown>
 
 - [![Calibration](images/convergence.png){ loading=lazy }](calibration.ipynb "Calibration")
-    **Calibration**
+  **Calibration**
 
 </div>
