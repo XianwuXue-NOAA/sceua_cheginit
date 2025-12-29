@@ -2,5 +2,5 @@
 
 - [ ] Closes #xxxx
 - [ ] Passes `pixi r list` and `pixi r typecheck`.
-- [ ] Tests added and `pixi r -e test310 test` and `pixi r -e test313 test` pass.
+- [ ] Tests added and `pixi r -e test310 test` and `pixi r -e test314 test` pass.
 - [ ] Changes and the contributor name are documented in `CHANGELOG.md`.
